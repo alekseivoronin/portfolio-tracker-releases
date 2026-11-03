@@ -1,4 +1,4 @@
-# Portfolio Tracker — Releases
+# Portfolio Tracker - Releases
 
 Этот репозиторий создан для публикации официальных сборок приложения **Portfolio Tracker** для Windows.
 
